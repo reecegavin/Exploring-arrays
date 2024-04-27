@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=EngArray
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Test\ the\ array\ methods\r\n\ @param\ args\ the\ command\ line\ arguments\r\n
+comment2.params=array
+comment2.target=double\ calcSum(double[])
+comment2.text=\r\n\ Calculates\ the\ Sum\ of\ any\ given\ values\ in\ an\ array\r\n\ @param\ args\ the\ command\ line\ arguments\r\n
+comment3.params=array
+comment3.target=double\ calcAvg(double[])
+comment3.text=\r\n\ Calculates\ the\ Average\ of\ any\ given\ values\ in\ an\ array\r\n\ @param\ args\ the\ command\ line\ arguments\r\n
+comment4.params=array
+comment4.target=double\ findMin(double[])
+comment4.text=\r\n\ Calculates\ the\ Minimum\ of\ any\ given\ values\ in\ an\ array\r\n\ @param\ args\ the\ command\ line\ arguments\r\n
+comment5.params=array
+comment5.target=java.lang.String\ toString(double[])
+comment5.text=\r\n\ Returns\ a\ string\ representation\ of\ the\ array\ i.e.\ a\ comma\ separated\ list\ \r\n\ of\ elements\ within\ [\ ].\ \ Similar\ to\ java.util.Arrays.toString(double[]\ a)\ method.\r\n\ Each\ array\ element\ will\ be\ displayed\ by\ String.valueOf(double).\r\n\ @param\ array\ \ the\ array\ whose\ string\ representation\ is\ required\r\n\ @return\ a\ string\ representation\ of\ array\r\n
+comment6.params=
+comment6.target=double[]\ makeArray()
+comment6.text=\r\n\ Input\ a\ set\ of\ elements\ and\ store\ in\ the\ created\ array.\ The\ user\ specifies\r\n\ the\ size\ of\ the\ array,\ and\ enters\ the\ elements.\r\n\ @return\ the\ created\ array\r\n
+comment7.params=array\ value
+comment7.target=void\ fill(double[],\ double)
+comment7.text=\r\n\ An\ array\ and\ value\ is\ inputted.\ The\ values\ in\ the\ array\ are\ let\ \=\ to\ the\ value\ inputted\ in\ this\ method.\r\n\ @param\ args\ the\ command\ line\ arguments\r\n
+comment8.params=array
+comment8.target=void\ orderArray(double[])
+numComments=9
